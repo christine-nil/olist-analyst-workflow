@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Data
+data/raw/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
